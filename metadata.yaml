@@ -1,0 +1,38 @@
+_repo: Origenes-de-la-novela-Tomo-I_70058
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Menéndez y Pelayo, Marcelino
+    aliases:
+    - Pelayo, Marcelino Menéndez y
+    - Pelayo, Marcelino Menendez y
+    - Menéndez Pelayo, Marcelino
+    birthdate: 1856
+    deathdate: 1912
+    gutenberg_agent_id: '47265'
+    url: http://www.gutenberg.org/2009/agents/47265
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Marcelino_Men%C3%A9ndez_y_Pelayo
+    - https://es.wikipedia.org/wiki/Marcelino_Men%C3%A9ndez_Pelayo
+description: ''
+gutenberg_issued: '2023-02-17'
+identifiers:
+  gutenberg: '70058'
+language: es
+pgterms:marc904: https://archive.org/details/orgenesdelanov01menuoft/page/2/mode/2up
+pgterms:marc905: 20210216143303menndezype
+pgterms:marc906: '1905'
+pgterms:marc907: ES
+production_note: Andrés V. Galia and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/Canadian
+  Libraries)
+publication_note: '  $aSpain :$bCasa editorial Bailly-Bailliére, $c1905.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spanish fiction -- History and criticism'
+- !lcc 'PQ'
+- GITenberg
+title: Orígenes de la novela,  Tomo I
+url: http://www.gutenberg.org/ebooks/70058
