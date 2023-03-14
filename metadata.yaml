@@ -1,5 +1,8 @@
 _repo: Origenes-de-la-novela-Tomo-I_70058
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70058-h/images/cover.jpg
 creator:
   author:
     agent_name: Menéndez y Pelayo, Marcelino
@@ -15,6 +18,8 @@ creator:
     - https://en.wikipedia.org/wiki/Marcelino_Men%C3%A9ndez_y_Pelayo
     - https://es.wikipedia.org/wiki/Marcelino_Men%C3%A9ndez_Pelayo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70058#Origenes-de-la-novela-Tomo-I
 gutenberg_issued: '2023-02-17'
 identifiers:
   gutenberg: '70058'
